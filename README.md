@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I'm Yousef. I am a Mern Stack Web Developer.
+### I'm Yousef. I am a front-end developer.
 
 - ⚙️ Technologies I normally work with include HTML5, CSS3, JavaScript .
 - ⏭️ Next Technologies I am looking forward to learning are React, and node js.
 - 😄 I’m passionate about Frond End development and really enjoy working on all aspects of a project from start to finish. My interest mostly lies in the Front End and React
 - 
-notion Linux c c++ js html css shell script SQL MySQL DevOps network data-structure oop clean-code betty-style pycodestyle
+notion Linux c c++ js html css shell script SQL MySQL DevOps network data-structure oop clean-code betty-style pycodestyle - react js - material ui - redux - python 
+
 
