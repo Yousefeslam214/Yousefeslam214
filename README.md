@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 - ⏭️ **Next Technologies to Learn:** Flask and API development.
 - 😄 **Passionate About:** Front-end development. I enjoy working on all aspects of a project from start to finish, with a particular interest in React.
 
-notion Linux c c++ js html css shell script SQL MySQL DevOps network data-structure oop clean-code betty-style pycodestyle - react js - material ui - redux - python 
-
+<!--  notion Linux c c++ js html css shell script SQL MySQL DevOps network data-structure oop clean-code betty-style pycodestyle - react js - material ui - redux - python -->
 
