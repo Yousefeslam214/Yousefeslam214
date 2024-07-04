@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 -->
 ### Hi, I'm Yousef - A Front-End Developer
 
-- ⚙️ **Technologies I Work With:** HTML5, CSS3, JavaScript, React, Redux, and Material-UI.
-<!-- - ⏭️ **Next Technologies to Learn:** Flask and API development. -->
+- ⚙️ **Technologies I Work With:** HTML5, CSS3, JavaScript, React, Redux, and Material-UI. <!-- - ⏭️ **Next Technologies to Learn:** Flask and API development. -->
 - 😄 **Passionate About:** Front-end development. I enjoy working on all aspects of a project from start to finish, with a particular interest in React.
 
 <!--  Linux
