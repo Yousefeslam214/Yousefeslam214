@@ -16,8 +16,30 @@ Here are some ideas to get you started:
 ### Hi, I'm Yousef - A Front-End Developer
 
 - ⚙️ **Technologies I Work With:** HTML5, CSS3, JavaScript, React, Redux, and Material-UI.
-- ⏭️ **Next Technologies to Learn:** Flask and API development.
+<!-- - ⏭️ **Next Technologies to Learn:** Flask and API development. -->
 - 😄 **Passionate About:** Front-end development. I enjoy working on all aspects of a project from start to finish, with a particular interest in React.
 
-<!--  notion Linux c c++ js html css shell script SQL MySQL DevOps network data-structure oop clean-code betty-style pycodestyle - react js - material ui - redux - python -->
+<!--  Linux
+C/C++
+JavaScript
+TypeScript
+HTML/CSS
+Shell Scripting
+SQL/MySQL
+SQLAlchemy
+DevOps
+Network Management
+Data Structures
+Object-Oriented Programming (OOP)
+Clean Code Practices
+Betty Style
+Pycodestyle
+React.js
+Material-UI
+Redux
+Python
+Network Configuration
+Bash Scripting
+Git Commands
+-->
 
