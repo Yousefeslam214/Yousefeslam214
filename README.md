@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi, I'm Yousef - A Front-End Developer
+### Hi, I'm Yousef - Full Stack Developer | React + Node
 
-- ⚙️ **Technologies I Work With:** HTML5, CSS3, JavaScript, React, Redux, and Material-UI. <!-- - ⏭️ **Next Technologies to Learn:** Flask and API development. -->
-- 😄 **Passionate About:** Front-end development. I enjoy working on all aspects of a project from start to finish, with a particular interest in React.
+- ⚙️ **Technologies I Work With:** HTML5, CSS3, JavaScript, Python, React, Node.js, Express, MongoDB, SQL, and Flask.
+<!-- 😄 **Passionate About:** Front-end development. I enjoy working on all aspects of a project from start to finish, with a particular interest in React.
 
 <!--  Linux
 C/C++
