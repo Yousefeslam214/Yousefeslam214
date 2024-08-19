@@ -24,26 +24,6 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40" height="40"/>
 </p>
-<h3 align="center">Additional Skills</h3>
-<ul align="center">
-  <li>Linux</li>
-  <li>C/C++</li>
-  <li>TypeScript</li>
-  <li>Shell Scripting</li>
-  <li>SQL/MySQL</li>
-  <li>SQLAlchemy</li>
-  <li>DevOps</li>
-  <li>Network Management</li>
-  <li>Data Structures</li>
-  <li>Object-Oriented Programming (OOP)</li>
-  <li>Clean Code Practices</li>
-  <li>Betty Style</li>
-  <li>Pycodestyle</li>
-  <li>Redux</li>
-  <li>Network Configuration</li>
-  <li>Bash Scripting</li>
-  <li>Git Commands</li>
-</ul>
 <h2 align="center">🧑‍💻 About Me</h2>
 <p align="center">
   I'm a passionate Full Stack Developer with experience in building web applications using React, Node.js, Django, and other technologies. I love solving problems and creating robust, scalable solutions.
