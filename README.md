@@ -3,11 +3,10 @@
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue" alt="Full Stack Developer">
   <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django">
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemQ4bGFwYnRlNzdzbWF2a3J0MDJ4dmppNnRkYXc0Zjh3emhhcG5hbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.webp" width="30%" height="30%"  alt="Software Engineering" />
-</p>
+</p> -->
 <h2 align="center">🛠️ Skills & Technologies</h2>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
