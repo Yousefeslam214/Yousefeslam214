@@ -1,38 +1,37 @@
-<h1 align="center">Hi there, I'm Youssef Eslam! 👋</h1>
+<h1 align="center">Hi there, I'm Yousef 👋</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue" alt="Full Stack Developer">
-  <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
+  <em>ALX Software Engineering Graduate | Passionate about bringing ideas to life and making technology more accessible</em>
 </p>
-<!-- <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemQ4bGFwYnRlNzdzbWF2a3J0MDJ4dmppNnRkYXc0Zjh3emhhcG5hbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.webp" width="30%" height="30%"  alt="Software Engineering" />
-</p> -->
-<h2 align="center">🛠️ Skills & Technologies</h2>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-django-1-282754.png?f=webp&w=256" alt="Django" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" width="40" height="40"/>
-  <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40" height="40"/>
-</p>
-<h2 align="center">🧑‍💻 About Me</h2>
-<p align="center">
-  I'm a passionate Full Stack Developer with experience in building web applications using React, Node.js, Django, and other technologies. I love solving problems and creating robust, scalable solutions.
-</p>
-<h2 align="center">📫 Connect with me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/yousefeslam/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:yousefeslam214@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"/>
-  </a>
-</p>
+
+---
+
+### 👨‍💻 About Me
+I'm a recent graduate from the **ALX Software Engineering Program**, where I embarked on my journey to become a proficient software engineer. My passion lies in **creating solutions that make life easier** through innovative technology, and I’m excited to bring my skills to new projects and teams. Throughout my program, I’ve dedicated myself to developing practical skills and building a strong foundation in software engineering principles.
+
+- 🌟 **Driven by Creativity:** I'm inspired by the process of taking ideas and transforming them into tangible, impactful software.
+- 💡 **Problem-Solver:** I thrive in environments that challenge me to think critically and develop solutions for real-world problems.
+
+### 🛠️ Languages and Tools
+I have hands-on experience with various technologies, frameworks, and tools, including:
+
+- **Languages:** JavaScript
+- **Frontend:** Next.js, React, HTML, CSS
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, PostgreSQL
+
+### 📈 My Projects
+Here are some highlights of my recent projects:
+
+- **Smart Care:** Developed an API and route system for a healthcare management app, ensuring seamless data interactions and security.
+- **Project Ideanest:** Designed and managed database architecture for a collaborative ideation platform, handling user accounts and idea submissions effectively.
+
+Explore my [repositories](https://github.com/Yousefeslam214) to see more of my work.
+
+### 📫 Connect with Me
+I'm actively looking for opportunities to further my skills and contribute to meaningful projects. If you’d like to collaborate or have an opportunity, feel free to reach out:
+
+- [LinkedIn](https://www.linkedin.com/in/yousefeslam/)
+
+---
+
+Thank you for visiting my profile! ✨ Let’s make something incredible together.
