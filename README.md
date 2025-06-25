@@ -1,23 +1,41 @@
 <h1 align="center">Hi there, I'm Yousef 👋</h1>
 <p align="center">
-  <em>ALX Software Engineering Graduate | Passionate about bringing ideas to life and making technology more accessible</em>
+  <em>Full Stack Developer (React, Node.js) | Front-End Developer (Next.js, React) | Odoo Developer</em>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-I'm a recent graduate from the **ALX Software Engineering Program**, where I embarked on my journey to become a proficient software engineer. My passion lies in **creating solutions that make life easier** through innovative technology, and I’m excited to bring my skills to new projects and teams. Throughout my program, I’ve dedicated myself to developing practical skills and building a strong foundation in software engineering principles.
-
-- 🌟 **Driven by Creativity:** I'm inspired by the process of taking ideas and transforming them into tangible, impactful software.
-- 💡 **Problem-Solver:** I thrive in environments that challenge me to think critically and develop solutions for real-world problems.
+I recently finished the ALX Software Engineering Program, where I learned how to build real software step by step. I love using technology to solve problems and make life easier for people.  
+During my journey, I worked hard to build strong skills in coding and software development. Now, I’m ready and excited to join new teams and work on real projects.
 
 ### 🛠️ Languages and Tools
-I have hands-on experience with various technologies, frameworks, and tools, including:
 
-- **Languages:** JavaScript
-- **Frontend:** Next.js, React, HTML, CSS
-- **Backend:** Node.js, Express
-- **Databases:** MongoDB, PostgreSQL
+<p align="left">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+
+  <!-- Databases & Cache -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
+
+  <!-- Odoo (custom image) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Odoo_logo.png" height="40" alt="Odoo" />
+
+</p>
 
 ---
 
