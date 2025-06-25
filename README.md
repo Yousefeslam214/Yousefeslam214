@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7941E&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+(React,+Node.js);Front-End+Developer+(Next.js,+React);Odoo+Developer" /></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7941E&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+(React,+Node.js);Front-End+Developer+(Next.js,+React);Odoo+Developer"   style="pointer-events: none;" /></p>
 
 ---
 
