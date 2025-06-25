@@ -9,27 +9,14 @@
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7941E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Odoo+Developer;React+%2F+Node+%2F+Next+Specialist" /><b> About Me</b>
 
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="28"><b> About Me</b>
-
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"><b> About Me</b>
-
-
-## <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="25"><b> About Me</b>
-
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="25"><b> About Me</b>
-
-## <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="25"><b> About Me</b>
-
-
 
 ### 👨‍💻 About Me
+<br>
 I recently finished the ALX Software Engineering Program, where I learned how to build real software step by step. I love using technology to solve problems and make life easier for people.  
 During my journey, I worked hard to build strong skills in coding and software development. Now, I’m ready and excited to join new teams and work on real projects.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
-
 <br>
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
