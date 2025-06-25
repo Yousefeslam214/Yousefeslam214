@@ -7,6 +7,15 @@
 
 ---
 
+
+## <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="25"><b> About Me</b>
+
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="25"><b> About Me</b>
+
+## <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="25"><b> About Me</b>
+
+
+
 ### 👨‍💻 About Me
 I recently finished the ALX Software Engineering Program, where I learned how to build real software step by step. I love using technology to solve problems and make life easier for people.  
 During my journey, I worked hard to build strong skills in coding and software development. Now, I’m ready and excited to join new teams and work on real projects.
