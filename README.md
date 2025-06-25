@@ -125,6 +125,9 @@ Thank you for visiting my profile! ✨ Let’s make something incredible togethe
 </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Expressjs.svg" alt="express" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40" alt="Express.js" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40" alt="Express.js" />
+
 </a>
 
 <!-- Databases & Caching -->
@@ -134,14 +137,8 @@ Thank you for visiting my profile! ✨ Let’s make something incredible togethe
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </a>
-<a href="https://redis.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-</a>
 
 <!-- Tools -->
-<a href="https://www.odoo.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Odoo_logo.png" alt="odoo" width="40" height="40"/>
-</a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
