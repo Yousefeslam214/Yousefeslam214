@@ -7,6 +7,12 @@
 
 ---
 
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7941E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Odoo+Developer;React+%2F+Node+%2F+Next+Specialist" /><b> About Me</b>
+
+## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="28"><b> About Me</b>
+
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"><b> About Me</b>
+
 
 ## <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="25"><b> About Me</b>
 
