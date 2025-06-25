@@ -8,6 +8,7 @@
 
 ### 👨‍💻 About Me
 <br>
+
 I recently finished the ALX Software Engineering Program, where I learned how to build real software step by step. I love using technology to solve problems and make life easier for people.  
 During my journey, I worked hard to build strong skills in coding and software development.
 
