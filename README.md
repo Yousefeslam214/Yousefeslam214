@@ -1,15 +1,13 @@
 <h1 align="center"><b>Hi there, I'm Yousef  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7941E&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+(React,+Node.js);Front-End+Developer+(Next.js,+React);Odoo+Developer"   style="pointer-events: none;" /></p>
 
 ---
-
+<b>
 ### 👨‍💻 About Me
-<br>
---
-
+<br/>
+</b>
 I recently finished the ALX Software Engineering Program, where I learned how to build real software step by step. I love using technology to solve problems and make life easier for people.  
 During my journey, I worked hard to build strong skills in coding and software development.
 
