@@ -10,6 +10,9 @@ I recently finished the ALX Software Engineering Program, where I learned how to
 During my journey, I worked hard to build strong skills in coding and software development. Now, I’m ready and excited to join new teams and work on real projects.
 
 ### 🛠️ Languages and Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Languages and Tools</b>
+
+<br>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
