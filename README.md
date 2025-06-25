@@ -99,7 +99,6 @@ Thank you for visiting my profile! ✨ Let’s make something incredible togethe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
 <br/>
-<hr/>
 <!-- Frontend -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
