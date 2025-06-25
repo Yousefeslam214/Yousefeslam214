@@ -11,6 +11,9 @@
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7941E&center=true&vCenter=true&width=435&lines=Full Stack Developer (React, Node.js) | Front-End Developer (Next.js, React) | Odoo Developer;Software Enginere" /><b> About Me</b>
 
+
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7941E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Odoo+Developer;React+%2F+Node+%2F+Next+Specialist" /><b> About Me</b>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7941E&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+(React%2C+Node.js)+|+Front-End+Developer+(Next.js%2C+React)+|+Odoo+Developer;Software+Engineer" />
 </p>
