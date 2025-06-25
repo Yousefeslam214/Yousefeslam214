@@ -19,19 +19,6 @@ I have hands-on experience with various technologies, frameworks, and tools, inc
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB, PostgreSQL
 
-### 📈 My Projects
-Here are some highlights of my recent projects:
-
-- **Smart Care:** Developed an API and route system for a healthcare management app, ensuring seamless data interactions and security.
-- **Project Ideanest:** Designed and managed database architecture for a collaborative ideation platform, handling user accounts and idea submissions effectively.
-
-Explore my [repositories](https://github.com/Yousefeslam214) to see more of my work.
-
-### 📫 Connect with Me
-I'm actively looking for opportunities to further my skills and contribute to meaningful projects. If you’d like to collaborate or have an opportunity, feel free to reach out:
-
-- [LinkedIn](https://www.linkedin.com/in/yousefeslam/)
-
 ---
 
 Thank you for visiting my profile! ✨ Let’s make something incredible together.
