@@ -27,7 +27,3 @@ During my journey, I worked hard to build strong skills in coding and software d
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)&nbsp;
-
----
-
-Thank you for visiting my profile! ✨ Let’s make something incredible together.
